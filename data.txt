@@ -1,0 +1,31 @@
+1,Pizza Margherita,Italian,12.50
+2,Ribeye Steak,American,28.99
+3,Spicy Tuna Sushi,Japanese,15.00
+4,Chicken Curry,Thai,10.50
+5,Carbonara Pasta,Italian,13.99
+6,Cheeseburger,American,9.95
+7,Philadelphia Roll,Japanese,11.50
+8,Caesar Salad,International,8.50
+9,Paella,Spanish,19.50
+10,Tom Yum Soup,Thai,7.99
+11,Lasagna,Italian,14.50
+12,BLT Sandwich,American,6.95
+13,Maguro Sashimi,Japanese,16.50
+14,Chicken Tortilla,Mexican,11.25
+15,Chicken Kiev,European,12.99
+16,Niçoise Salad,French,10.50
+17,Tomato Soup,International,5.50
+18,Pastrami,Israeli,13.75
+19,California Roll,Japanese,9.50
+20,Khachapuri,Georgian,8.99
+21,Falafel,Israeli,6.50
+22,Borscht,Ukrainian,7.50
+23,Beefsteak,American,16.75
+24,Unagi Sushi,Japanese,18.50
+25,Tabaka Chicken,International,11.50
+26,Greek Salad,Greek,9.25
+27,French Fries,American,4.50
+28,Snack Mix,Russian,3.99
+29,Caterpillar Roll,Japanese,10.50
+30,Schnitzel,Austrian,14.99
+31,Shrimp Tacos,Mexican,15.43
